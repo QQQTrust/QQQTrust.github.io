@@ -1,0 +1,12 @@
+title: QQQTrust 的博客
+description: 记录技术、研究、思考和日常
+author: QQQTrust
+url: "https://QQQTrust.github.io"
+baseurl: ""
+lang: zh-CN
+timezone: Asia/Shanghai
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+
+exclude:
+  - README.md
