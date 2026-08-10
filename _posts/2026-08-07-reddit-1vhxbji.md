@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "五、交易高手最反直觉的特征：他们很少做单"
+title: "二十、交易高手最反直觉的特征：他们很少做单"
 date: 2026-08-07 01:55:00 +0800
+order: 20
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhxbji/%E4%BA%A4%E6%98%93%E9%AB%98%E6%89%8B%E6%9C%80%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84%E7%89%B9%E5%BE%81%E4%BB%96%E4%BB%AC%E5%BE%88%E5%B0%91%E5%81%9A%E5%8D%95/"
@@ -167,9 +168,3 @@ reddit_id: "1vhxbji"
 ## 媒体
 
 ![media poster](https://external-preview.redd.it/%E4%BA%A4%E6%98%93%E9%AB%98%E6%89%8B%E6%9C%80%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84%E7%89%B9%E5%BE%81-%E4%BB%96%E4%BB%AC%E5%BE%88%E5%B0%91%E5%81%9A%E5%8D%95-v0-YnlqcHRkZDFueGhoMa9nwLI2Swm4bQidLQj0jjzqBwpRxFRfgCQizOJCMkUf.png?width=640&crop=smart&format=pjpg&auto=webp&s=61980708473dadaf33d8284362890cabba617a8a)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhxbji/%E4%BA%A4%E6%98%93%E9%AB%98%E6%89%8B%E6%9C%80%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84%E7%89%B9%E5%BE%81%E4%BB%96%E4%BB%AC%E5%BE%88%E5%B0%91%E5%81%9A%E5%8D%95/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhxbji/%E4%BA%A4%E6%98%93%E9%AB%98%E6%89%8B%E6%9C%80%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84%E7%89%B9%E5%BE%81%E4%BB%96%E4%BB%AC%E5%BE%88%E5%B0%91%E5%81%9A%E5%8D%95/

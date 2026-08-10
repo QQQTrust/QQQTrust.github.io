@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "三、炒股炒到最后其实就是人性大考"
+title: "二十二、炒股炒到最后其实就是人性大考"
 date: 2026-08-08 01:57:00 +0800
+order: 22
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1viiivn/%E7%82%92%E8%82%A1%E7%82%92%E5%88%B0%E6%9C%80%E5%90%8E%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%80%A7%E5%A4%A7%E8%80%83/"
@@ -221,9 +222,3 @@ reddit_id: "1viiivn"
 ## 媒体
 
 ![media poster](https://external-preview.redd.it/%E7%82%92%E8%82%A1%E7%82%92%E5%88%B0%E6%9C%80%E5%90%8E%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%80%A7%E5%A4%A7%E8%80%83-v0-YmV3bnd0ZGt4MWloMRtGUkZPqjJNxkLHCnRq5zZ_LGXmks4YyW1qH91e8A49.png?width=640&crop=smart&format=pjpg&auto=webp&s=812e5f563644190b6e78711b8cb43591390e5e57)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1viiivn/%E7%82%92%E8%82%A1%E7%82%92%E5%88%B0%E6%9C%80%E5%90%8E%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%80%A7%E5%A4%A7%E8%80%83/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1viiivn/%E7%82%92%E8%82%A1%E7%82%92%E5%88%B0%E6%9C%80%E5%90%8E%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E4%BA%BA%E6%80%A7%E5%A4%A7%E8%80%83/

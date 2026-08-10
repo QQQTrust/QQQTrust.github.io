@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "二十三、为什么自己有限的资金应该只聚焦到美股？"
+title: "一、为什么自己有限的资金应该只聚焦到美股？"
 date: 2026-08-06 01:37:00 +0800
+order: 1
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%87%AA%E5%B7%B1%E6%9C%89%E9%99%90%E7%9A%84%E8%B5%84%E9%87%91%E5%BA%94%E8%AF%A5%E5%8F%AA%E8%81%9A%E7%84%A6%E5%88%B0%E7%BE%8E%E8%82%A1/"
@@ -73,9 +74,3 @@ reddit_id: "1vgp1hi"
 ## 媒体
 
 ![u/QQQTrust - 为什么自己有限的资金应该只聚焦到美股？](https://i.redd.it/c1d4vy3bgnhh1.png)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%87%AA%E5%B7%B1%E6%9C%89%E9%99%90%E7%9A%84%E8%B5%84%E9%87%91%E5%BA%94%E8%AF%A5%E5%8F%AA%E8%81%9A%E7%84%A6%E5%88%B0%E7%BE%8E%E8%82%A1/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%87%AA%E5%B7%B1%E6%9C%89%E9%99%90%E7%9A%84%E8%B5%84%E9%87%91%E5%BA%94%E8%AF%A5%E5%8F%AA%E8%81%9A%E7%84%A6%E5%88%B0%E7%BE%8E%E8%82%A1/

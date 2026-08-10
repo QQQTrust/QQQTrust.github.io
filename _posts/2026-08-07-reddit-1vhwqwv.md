@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "六、交易最难的不是看对，而是等待"
+title: "十九、交易最难的不是看对，而是等待"
 date: 2026-08-07 01:54:00 +0800
+order: 19
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhwqwv/%E4%BA%A4%E6%98%93%E6%9C%80%E9%9A%BE%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9C%8B%E5%AF%B9%E8%80%8C%E6%98%AF%E7%AD%89%E5%BE%85/"
@@ -215,9 +216,3 @@ reddit_id: "1vhwqwv"
 ## 媒体
 
 ![media poster](https://external-preview.redd.it/%E4%BA%A4%E6%98%93%E6%9C%80%E9%9A%BE%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9C%8B%E5%AF%B9-%E8%80%8C%E6%98%AF%E7%AD%89%E5%BE%85-v0-bzF5ZnNlcWI4eGhoMSMet-vhYg_PWPqB4Hpe0gPIYlOVwRbX-4po4IYZ2V05.png?width=640&crop=smart&format=pjpg&auto=webp&s=2299892de2b529227f79ac9c08b14c9c83dccb8f)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhwqwv/%E4%BA%A4%E6%98%93%E6%9C%80%E9%9A%BE%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9C%8B%E5%AF%B9%E8%80%8C%E6%98%AF%E7%AD%89%E5%BE%85/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhwqwv/%E4%BA%A4%E6%98%93%E6%9C%80%E9%9A%BE%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9C%8B%E5%AF%B9%E8%80%8C%E6%98%AF%E7%AD%89%E5%BE%85/

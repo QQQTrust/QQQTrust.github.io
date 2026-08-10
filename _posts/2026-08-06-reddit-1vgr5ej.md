@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "十九、如果有一天美股不再V反回来，最危险的人是谁？"
+title: "五、如果有一天美股不再V反回来，最危险的人是谁？"
 date: 2026-08-06 01:41:00 +0800
+order: 5
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vgr5ej/%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E5%A4%A9%E7%BE%8E%E8%82%A1%E4%B8%8D%E5%86%8Dv%E5%8F%8D%E5%9B%9E%E6%9D%A5%E6%9C%80%E5%8D%B1%E9%99%A9%E7%9A%84%E4%BA%BA%E6%98%AF%E8%B0%81/"
@@ -203,9 +204,3 @@ Check and updating Stock YouTuber Daily
 r/AlphaStructureLab
 
 一个专注于 美国股市、宏观讯号与市场趋势 的社群。 这里会关注： • CPI、通膨与联准会政策 • 科技股与 AI 板块 • 半导体产业动向 • 市场情绪变化 • 交易关键价位与市场节奏 市场很多时候不是被新闻推动， 而是被 预期差 所驱动。 这里适合想理解 市场真正逻辑 的投资者与交易者。 Telegram 社区: https://t.me/+PcrzZZguwqpiZjAx
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vgr5ej/%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E5%A4%A9%E7%BE%8E%E8%82%A1%E4%B8%8D%E5%86%8Dv%E5%8F%8D%E5%9B%9E%E6%9D%A5%E6%9C%80%E5%8D%B1%E9%99%A9%E7%9A%84%E4%BA%BA%E6%98%AF%E8%B0%81/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vgr5ej/%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E5%A4%A9%E7%BE%8E%E8%82%A1%E4%B8%8D%E5%86%8Dv%E5%8F%8D%E5%9B%9E%E6%9D%A5%E6%9C%80%E5%8D%B1%E9%99%A9%E7%9A%84%E4%BA%BA%E6%98%AF%E8%B0%81/

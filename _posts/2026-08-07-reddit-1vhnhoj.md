@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "十四、大部分时间空仓休息是稳定盈利的如意法宝"
+title: "十、大部分时间空仓休息是稳定盈利的如意法宝"
 date: 2026-08-07 01:46:00 +0800
+order: 10
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhnhoj/%E5%A4%A7%E9%83%A8%E5%88%86%E6%97%B6%E9%97%B4%E7%A9%BA%E4%BB%93%E4%BC%91%E6%81%AF%E6%98%AF%E7%A8%B3%E5%AE%9A%E7%9B%88%E5%88%A9%E7%9A%84%E5%A6%82%E6%84%8F%E6%B3%95%E5%AE%9D/"
@@ -57,9 +58,3 @@ reddit_id: "1vhnhoj"
 ## 媒体
 
 ![u/QQQTrust - 大部分时间空仓休息是稳定盈利的如意法宝](https://i.redd.it/zmo11sh6zuhh1.png)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhnhoj/%E5%A4%A7%E9%83%A8%E5%88%86%E6%97%B6%E9%97%B4%E7%A9%BA%E4%BB%93%E4%BC%91%E6%81%AF%E6%98%AF%E7%A8%B3%E5%AE%9A%E7%9B%88%E5%88%A9%E7%9A%84%E5%A6%82%E6%84%8F%E6%B3%95%E5%AE%9D/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhnhoj/%E5%A4%A7%E9%83%A8%E5%88%86%E6%97%B6%E9%97%B4%E7%A9%BA%E4%BB%93%E4%BC%91%E6%81%AF%E6%98%AF%E7%A8%B3%E5%AE%9A%E7%9B%88%E5%88%A9%E7%9A%84%E5%A6%82%E6%84%8F%E6%B3%95%E5%AE%9D/

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "十八、真正交易厉害的人，为什么最后都变得不合群了？"
+title: "六、真正交易厉害的人，为什么最后都变得不合群了？"
 date: 2026-08-07 01:42:00 +0800
+order: 6
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhloyk/%E7%9C%9F%E6%AD%A3%E4%BA%A4%E6%98%93%E5%8E%89%E5%AE%B3%E7%9A%84%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%90%8E%E9%83%BD%E5%8F%98%E5%BE%97%E4%B8%8D%E5%90%88%E7%BE%A4%E4%BA%86/"
@@ -93,9 +94,3 @@ reddit_id: "1vhloyk"
 ## 媒体
 
 ![u/QQQTrust - 真正交易厉害的人，为什么最后都变得不合群了？](https://i.redd.it/6lmnrkziluhh1.png)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhloyk/%E7%9C%9F%E6%AD%A3%E4%BA%A4%E6%98%93%E5%8E%89%E5%AE%B3%E7%9A%84%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%90%8E%E9%83%BD%E5%8F%98%E5%BE%97%E4%B8%8D%E5%90%88%E7%BE%A4%E4%BA%86/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhloyk/%E7%9C%9F%E6%AD%A3%E4%BA%A4%E6%98%93%E5%8E%89%E5%AE%B3%E7%9A%84%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%90%8E%E9%83%BD%E5%8F%98%E5%BE%97%E4%B8%8D%E5%90%88%E7%BE%A4%E4%BA%86/

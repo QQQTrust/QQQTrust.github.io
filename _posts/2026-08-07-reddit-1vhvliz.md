@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "七、散户最高境界：不是打败机构，而是成为机构最讨厌的人"
+title: "十八、散户最高境界：不是打败机构，而是成为机构最讨厌的人"
 date: 2026-08-07 01:53:00 +0800
+order: 18
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhvliz/%E6%95%A3%E6%88%B7%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%E4%B8%8D%E6%98%AF%E6%89%93%E8%B4%A5%E6%9C%BA%E6%9E%84%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%9C%BA%E6%9E%84%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%BA%BA/"
@@ -163,9 +164,3 @@ reddit_id: "1vhvliz"
 ## 媒体
 
 ![media poster](https://external-preview.redd.it/%E6%95%A3%E6%88%B7%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C-%E4%B8%8D%E6%98%AF%E6%89%93%E8%B4%A5%E6%9C%BA%E6%9E%84-%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%9C%BA%E6%9E%84%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%BA%BA-v0-enIyMWZ2M2U1eGhoMUDIJpy7hoq7kJJ26AGtnQwZnHz2FhDsoA9y2yd4Lc9M.png?width=640&crop=smart&format=pjpg&auto=webp&s=a0147ddab2bfc7bb2c157b334b22d3c558db9bc9)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhvliz/%E6%95%A3%E6%88%B7%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%E4%B8%8D%E6%98%AF%E6%89%93%E8%B4%A5%E6%9C%BA%E6%9E%84%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%9C%BA%E6%9E%84%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%BA%BA/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhvliz/%E6%95%A3%E6%88%B7%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%E4%B8%8D%E6%98%AF%E6%89%93%E8%B4%A5%E6%9C%BA%E6%9E%84%E8%80%8C%E6%98%AF%E6%88%90%E4%B8%BA%E6%9C%BA%E6%9E%84%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%BA%BA/

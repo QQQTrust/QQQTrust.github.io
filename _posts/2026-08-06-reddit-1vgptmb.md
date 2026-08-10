@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "二十、为什么我这次又错过了QQQ的暴涨？"
+title: "四、为什么我这次又错过了QQQ的暴涨？"
 date: 2026-08-06 01:40:00 +0800
+order: 4
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vgptmb/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%BF%99%E6%AC%A1%E5%8F%88%E9%94%99%E8%BF%87%E4%BA%86qqq%E7%9A%84%E6%9A%B4%E6%B6%A8/"
@@ -153,9 +154,3 @@ reddit_id: "1vgptmb"
 ## 媒体
 
 ![u/QQQTrust - 为什么我这次又错过了QQQ的暴涨？](https://i.redd.it/vpfhyww2mnhh1.png)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vgptmb/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%BF%99%E6%AC%A1%E5%8F%88%E9%94%99%E8%BF%87%E4%BA%86qqq%E7%9A%84%E6%9A%B4%E6%B6%A8/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vgptmb/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%BF%99%E6%AC%A1%E5%8F%88%E9%94%99%E8%BF%87%E4%BA%86qqq%E7%9A%84%E6%9A%B4%E6%B6%A8/

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "四、股市里为什么不能频繁交易？"
+title: "二十一、股市里为什么不能频繁交易？"
 date: 2026-08-08 01:56:00 +0800
+order: 21
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vii9tb/%E8%82%A1%E5%B8%82%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E9%A2%91%E7%B9%81%E4%BA%A4%E6%98%93/"
@@ -217,9 +218,3 @@ reddit_id: "1vii9tb"
 ## 媒体
 
 ![media poster](https://external-preview.redd.it/%E8%82%A1%E5%B8%82%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E9%A2%91%E7%B9%81%E4%BA%A4%E6%98%93-v0-aDQ1ZGswMnd0MWloMSxnloiocW4dwm7SYehyfR8OO89jF7lmttGnAhIuChfm.png?width=640&crop=smart&format=pjpg&auto=webp&s=9c9e34884a9b6fbd5677478100ff4a1470b4f0ab)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vii9tb/%E8%82%A1%E5%B8%82%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E9%A2%91%E7%B9%81%E4%BA%A4%E6%98%93/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vii9tb/%E8%82%A1%E5%B8%82%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E9%A2%91%E7%B9%81%E4%BA%A4%E6%98%93/

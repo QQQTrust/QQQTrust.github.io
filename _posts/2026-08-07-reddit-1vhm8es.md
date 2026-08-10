@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "十六、股市挣到钱是一个人的底气，意味着可以有更多的选择"
+title: "八、股市挣到钱是一个人的底气，意味着可以有更多的选择"
 date: 2026-08-07 01:44:00 +0800
+order: 8
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhm8es/%E8%82%A1%E5%B8%82%E6%8C%A3%E5%88%B0%E9%92%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E6%B0%94%E6%84%8F%E5%91%B3%E7%9D%80%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%80%89%E6%8B%A9/"
@@ -29,9 +30,3 @@ reddit_id: "1vhm8es"
 ## 媒体
 
 ![u/QQQTrust - 股市挣到钱是一个人的底气，意味着可以有更多的选择](https://i.redd.it/havq2135quhh1.png)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhm8es/%E8%82%A1%E5%B8%82%E6%8C%A3%E5%88%B0%E9%92%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E6%B0%94%E6%84%8F%E5%91%B3%E7%9D%80%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%80%89%E6%8B%A9/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhm8es/%E8%82%A1%E5%B8%82%E6%8C%A3%E5%88%B0%E9%92%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E6%B0%94%E6%84%8F%E5%91%B3%E7%9D%80%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%80%89%E6%8B%A9/

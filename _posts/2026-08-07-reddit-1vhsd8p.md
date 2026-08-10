@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "九、交易时为什么会恐惧？真正的根源是对自己交易系统的不信任"
+title: "十六、交易时为什么会恐惧？真正的根源是对自己交易系统的不信任"
 date: 2026-08-07 01:51:00 +0800
+order: 16
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhsd8p/%E4%BA%A4%E6%98%93%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%81%90%E6%83%A7%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%A0%B9%E6%BA%90%E6%98%AF%E5%AF%B9%E8%87%AA%E5%B7%B1%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%8D%E4%BF%A1%E4%BB%BB/"
@@ -113,9 +114,3 @@ reddit_id: "1vhsd8p"
 ## 媒体
 
 ![u/QQQTrust - 交易时为什么会恐惧？真正的根源是对自己交易系统的不信任](https://i.redd.it/pquum23k8whh1.png)
-
----
-
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhsd8p/%E4%BA%A4%E6%98%93%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%81%90%E6%83%A7%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%A0%B9%E6%BA%90%E6%98%AF%E5%AF%B9%E8%87%AA%E5%B7%B1%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%8D%E4%BF%A1%E4%BB%BB/)。
-
-文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhsd8p/%E4%BA%A4%E6%98%93%E6%97%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%81%90%E6%83%A7%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%A0%B9%E6%BA%90%E6%98%AF%E5%AF%B9%E8%87%AA%E5%B7%B1%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%8D%E4%BF%A1%E4%BB%BB/
