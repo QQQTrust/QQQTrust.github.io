@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "为什么自己有限的资金应该只聚焦到美股？"
-date: 2026-08-06 09:00:00 +0800
-category: 投资思考
-tags: [美股, 标普500, 全球资本, 投资]
-source: "https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/"
+date: 2026-08-06 01:37:00 +0800
+category: 交易思考
+tags: [交易, 美股, 投资, Reddit]
+source: "https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%87%AA%E5%B7%B1%E6%9C%89%E9%99%90%E7%9A%84%E8%B5%84%E9%87%91%E5%BA%94%E8%AF%A5%E5%8F%AA%E8%81%9A%E7%84%A6%E5%88%B0%E7%BE%8E%E8%82%A1/"
+reddit_id: "1vgp1hi"
 ---
 
 标普500总市值，刚刚站上一个足以写进金融史的数字：70万亿美元。
@@ -56,6 +57,7 @@ source: "https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/"
 它说明全球资金不是不知道美股贵，而是在比较之后，仍然选择了美股。
 
 贵，不等于没人买。
+
 贵，但仍然有人持续买，才是真正强势资产的特征。
 
 所以70万亿美元到底是泡沫，还是新常态？
@@ -68,6 +70,13 @@ source: "https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/"
 
 但至少从这一周全球市场的表现来看，资本已经给出了自己的答案。
 
+## 媒体
+
+
+![文章配图](https://preview.redd.it/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%87%AA%E5%B7%B1%E6%9C%89%E9%99%90%E7%9A%84%E8%B5%84%E9%87%91%E5%BA%94%E8%AF%A5%E5%8F%AA%E8%81%9A%E7%84%A6%E5%88%B0%E7%BE%8E%E8%82%A1-v0-c1d4vy3bgnhh1.png?width=1080&crop=smart&auto=webp&s=c256ee1ea4a2c9fda0a409e59ec696ca80155fac)
+
+![u/QQQTrust - 为什么自己有限的资金应该只聚焦到美股？](https://i.redd.it/c1d4vy3bgnhh1.png)
+
 ---
 
-原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/)。
+原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vgp1hi/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%87%AA%E5%B7%B1%E6%9C%89%E9%99%90%E7%9A%84%E8%B5%84%E9%87%91%E5%BA%94%E8%AF%A5%E5%8F%AA%E8%81%9A%E7%84%A6%E5%88%B0%E7%BE%8E%E8%82%A1/)。
