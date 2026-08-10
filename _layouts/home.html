@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">GitHub Pages · Personal Blog</p>
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+  </div>
+</section>
+
+<main class="page-shell">
+  <section class="posts">
+    <div class="section-title">
+      <h2>最新文章</h2>
+      <p>Latest posts</p>
+    </div>
+    {% for post in site.posts %}
+      <article class="post-card">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%Y-%m-%d' }}</time>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+        <div class="meta-row">
+          {% if post.category %}<span>{{ post.category }}</span>{% endif %}
+          {% for tag in post.tags %}<span>#{{ tag }}</span>{% endfor %}
+        </div>
+      </article>
+    {% endfor %}
+  </section>
+
+  <aside class="sidebar">
+    <section class="panel">
+      <div class="avatar">Q</div>
+      <h2>QQQTrust</h2>
+      <p>欢迎来到我的个人博客。这里用 GitHub Pages 发布，文章使用 Markdown 编写。</p>
+    </section>
+    <section class="panel">
+      <h2>写博客</h2>
+      <p>进入仓库 `_posts` 目录，新建 `YYYY-MM-DD-title.md`，提交后网站会自动更新。</p>
+      <a class="button" href="https://github.com/QQQTrust/QQQTrust.github.io/new/main/_posts">新建文章</a>
+    </section>
+  </aside>
+</main>
