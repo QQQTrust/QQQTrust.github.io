@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "把“意外”变成“计划”，是应对人生与交易痛苦的唯一解法"
+title: "十二、把“意外”变成“计划”，是应对人生与交易痛苦的唯一解法"
 date: 2026-08-07 01:48:00 +0800
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
@@ -30,11 +30,10 @@ reddit_id: "1vhorvt"
 
 ## 媒体
 
-
-![文章配图](https://preview.redd.it/%E6%8A%8A-%E6%84%8F%E5%A4%96-%E5%8F%98%E6%88%90-%E8%AE%A1%E5%88%92-%E6%98%AF%E5%BA%94%E5%AF%B9%E4%BA%BA%E7%94%9F%E4%B8%8E%E4%BA%A4%E6%98%93%E7%97%9B%E8%8B%A6%E7%9A%84%E5%94%AF%E4%B8%80%E8%A7%A3%E6%B3%95-v0-8m1mlq58bvhh1.jpeg?width=1080&crop=smart&auto=webp&s=e6c419affdb164c4ce4f0d8116ebd1db9b09f0e0)
-
 ![u/QQQTrust - 把“意外”变成“计划”，是应对人生与交易痛苦的唯一解法](https://i.redd.it/8m1mlq58bvhh1.jpeg)
 
 ---
 
 原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhorvt/%E6%8A%8A%E6%84%8F%E5%A4%96%E5%8F%98%E6%88%90%E8%AE%A1%E5%88%92%E6%98%AF%E5%BA%94%E5%AF%B9%E4%BA%BA%E7%94%9F%E4%B8%8E%E4%BA%A4%E6%98%93%E7%97%9B%E8%8B%A6%E7%9A%84%E5%94%AF%E4%B8%80%E8%A7%A3%E6%B3%95/)。
+
+文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhorvt/%E6%8A%8A%E6%84%8F%E5%A4%96%E5%8F%98%E6%88%90%E8%AE%A1%E5%88%92%E6%98%AF%E5%BA%94%E5%AF%B9%E4%BA%BA%E7%94%9F%E4%B8%8E%E4%BA%A4%E6%98%93%E7%97%9B%E8%8B%A6%E7%9A%84%E5%94%AF%E4%B8%80%E8%A7%A3%E6%B3%95/

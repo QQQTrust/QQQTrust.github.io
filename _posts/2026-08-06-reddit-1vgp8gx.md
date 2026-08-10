@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "为什么美股每次下跌后涨回来的时间越来越快？"
+title: "二十二、为什么美股每次下跌后涨回来的时间越来越快？"
 date: 2026-08-06 01:38:00 +0800
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
@@ -148,11 +148,10 @@ reddit_id: "1vgp8gx"
 
 ## 媒体
 
-
-![文章配图](https://preview.redd.it/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E8%82%A1%E6%AF%8F%E6%AC%A1%E4%B8%8B%E8%B7%8C%E5%90%8E%E6%B6%A8%E5%9B%9E%E6%9D%A5%E7%9A%84%E6%97%B6%E9%97%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%BF%AB-v0-uinqvuaxhnhh1.png?width=1080&crop=smart&auto=webp&s=bf29c6731bf0c37db0503a87cf1667c4d4d5fd03)
-
 ![u/QQQTrust - 为什么美股每次下跌后涨回来的时间越来越快？](https://i.redd.it/uinqvuaxhnhh1.png)
 
 ---
 
 原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vgp8gx/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E8%82%A1%E6%AF%8F%E6%AC%A1%E4%B8%8B%E8%B7%8C%E5%90%8E%E6%B6%A8%E5%9B%9E%E6%9D%A5%E7%9A%84%E6%97%B6%E9%97%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%BF%AB/)。
+
+文章链接：https://www.reddit.com/user/QQQTrust/comments/1vgp8gx/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E8%82%A1%E6%AF%8F%E6%AC%A1%E4%B8%8B%E8%B7%8C%E5%90%8E%E6%B6%A8%E5%9B%9E%E6%9D%A5%E7%9A%84%E6%97%B6%E9%97%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%BF%AB/

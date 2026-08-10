@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【交易哲学】维特根斯坦的这句名言，点透了交易的终极秘密"
+title: "一、【交易哲学】维特根斯坦的这句名言，点透了交易的终极秘密"
 date: 2026-08-08 01:59:00 +0800
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
@@ -62,11 +62,10 @@ reddit_id: "1vijhve"
 
 ## 媒体
 
-
-![文章配图](https://preview.redd.it/%E4%BA%A4%E6%98%93%E5%93%B2%E5%AD%A6-%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6%E7%9A%84%E8%BF%99%E5%8F%A5%E5%90%8D%E8%A8%80-%E7%82%B9%E9%80%8F%E4%BA%86%E4%BA%A4%E6%98%93%E7%9A%84%E7%BB%88%E6%9E%81%E7%A7%98%E5%AF%86-v0-o9avkbbu62ih1.jpeg?auto=webp&s=27a8a67407156457257312d06a4a9317fac5d4ac)
-
 ![u/QQQTrust - 【交易哲学】维特根斯坦的这句名言，点透了交易的终极秘密](https://i.redd.it/o9avkbbu62ih1.jpeg)
 
 ---
 
 原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vijhve/%E4%BA%A4%E6%98%93%E5%93%B2%E5%AD%A6%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6%E7%9A%84%E8%BF%99%E5%8F%A5%E5%90%8D%E8%A8%80%E7%82%B9%E9%80%8F%E4%BA%86%E4%BA%A4%E6%98%93%E7%9A%84%E7%BB%88%E6%9E%81%E7%A7%98%E5%AF%86/)。
+
+文章链接：https://www.reddit.com/user/QQQTrust/comments/1vijhve/%E4%BA%A4%E6%98%93%E5%93%B2%E5%AD%A6%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6%E7%9A%84%E8%BF%99%E5%8F%A5%E5%90%8D%E8%A8%80%E7%82%B9%E9%80%8F%E4%BA%86%E4%BA%A4%E6%98%93%E7%9A%84%E7%BB%88%E6%9E%81%E7%A7%98%E5%AF%86/

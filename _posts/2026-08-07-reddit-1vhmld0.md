@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "越急，越做不好交易"
+title: "十五、越急，越做不好交易"
 date: 2026-08-07 01:45:00 +0800
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
@@ -32,11 +32,10 @@ reddit_id: "1vhmld0"
 
 ## 媒体
 
-
-![文章配图](https://preview.redd.it/%E8%B6%8A%E6%80%A5-%E8%B6%8A%E5%81%9A%E4%B8%8D%E5%A5%BD%E4%BA%A4%E6%98%93-v0-fad8mdw1tuhh1.png?width=1080&crop=smart&auto=webp&s=07dfea7157be226f9293ca26f826e628c4409b59)
-
 ![u/QQQTrust - 越急，越做不好交易](https://i.redd.it/fad8mdw1tuhh1.png)
 
 ---
 
 原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhmld0/%E8%B6%8A%E6%80%A5%E8%B6%8A%E5%81%9A%E4%B8%8D%E5%A5%BD%E4%BA%A4%E6%98%93/)。
+
+文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhmld0/%E8%B6%8A%E6%80%A5%E8%B6%8A%E5%81%9A%E4%B8%8D%E5%A5%BD%E4%BA%A4%E6%98%93/

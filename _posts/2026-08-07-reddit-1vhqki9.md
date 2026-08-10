@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "真正让交易者失控的，不是行情，而是贪婪"
+title: "十、真正让交易者失控的，不是行情，而是贪婪"
 date: 2026-08-07 01:50:00 +0800
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
@@ -106,11 +106,10 @@ reddit_id: "1vhqki9"
 
 ## 媒体
 
-
-![文章配图](https://preview.redd.it/%E7%9C%9F%E6%AD%A3%E8%AE%A9%E4%BA%A4%E6%98%93%E8%80%85%E5%A4%B1%E6%8E%A7%E7%9A%84-%E4%B8%8D%E6%98%AF%E8%A1%8C%E6%83%85-%E8%80%8C%E6%98%AF%E8%B4%AA%E5%A9%AA-v0-5cuw1iglqvhh1.jpeg?width=1080&crop=smart&auto=webp&s=1b245c6ad7eded84bc7dc086c590a655685f441c)
-
 ![u/QQQTrust - 真正让交易者失控的，不是行情，而是贪婪](https://i.redd.it/5cuw1iglqvhh1.jpeg)
 
 ---
 
 原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vhqki9/%E7%9C%9F%E6%AD%A3%E8%AE%A9%E4%BA%A4%E6%98%93%E8%80%85%E5%A4%B1%E6%8E%A7%E7%9A%84%E4%B8%8D%E6%98%AF%E8%A1%8C%E6%83%85%E8%80%8C%E6%98%AF%E8%B4%AA%E5%A9%AA/)。
+
+文章链接：https://www.reddit.com/user/QQQTrust/comments/1vhqki9/%E7%9C%9F%E6%AD%A3%E8%AE%A9%E4%BA%A4%E6%98%93%E8%80%85%E5%A4%B1%E6%8E%A7%E7%9A%84%E4%B8%8D%E6%98%AF%E8%A1%8C%E6%83%85%E8%80%8C%E6%98%AF%E8%B4%AA%E5%A9%AA/

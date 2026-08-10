@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "美股科技股纳指为什么总能回血？"
+title: "二十一、美股科技股纳指为什么总能回血？"
 date: 2026-08-06 01:39:00 +0800
 category: 交易思考
 tags: [交易, 美股, 投资, Reddit]
@@ -110,11 +110,10 @@ A股科技的问题则不同。科创50今年并不是简单“离新高40%”�
 
 ## 媒体
 
-
-![文章配图](https://preview.redd.it/%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E7%BA%B3%E6%8C%87%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%83%BD%E5%9B%9E%E8%A1%80-v0-hs49v837jnhh1.png?width=1080&crop=smart&auto=webp&s=3a5e34b44cab8c2e86c8e9eac078ae61a94ad6f3)
-
 ![u/QQQTrust - 美股科技股纳指为什么总能回血？](https://i.redd.it/hs49v837jnhh1.png)
 
 ---
 
 原文发布于 [Reddit](https://www.reddit.com/user/QQQTrust/comments/1vgpe2v/%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E7%BA%B3%E6%8C%87%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%83%BD%E5%9B%9E%E8%A1%80/)。
+
+文章链接：https://www.reddit.com/user/QQQTrust/comments/1vgpe2v/%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E7%BA%B3%E6%8C%87%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E8%83%BD%E5%9B%9E%E8%A1%80/
