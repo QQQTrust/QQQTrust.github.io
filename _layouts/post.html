@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<main class="post-page">
+  <article class="post-detail">
+    <a class="back-link" href="{{ '/' | relative_url }}">← 返回首页</a>
+    <h1>{{ page.title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y-%m-%d' }}</time>
+      {% if page.category %}<span>{{ page.category }}</span>{% endif %}
+      {% for tag in page.tags %}<span>#{{ tag }}</span>{% endfor %}
+    </div>
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </article>
+</main>
