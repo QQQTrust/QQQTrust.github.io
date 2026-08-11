@@ -55,6 +55,4 @@ reddit_id: "1vhnhoj"
 
 交易高手每天忙的不是找机会，而是防止自己犯错；稳定盈利的关键，不是多交易，而是少犯错。
 
-## 媒体
 
-![u/QQQTrust - 大部分时间空仓休息是稳定盈利的如意法宝](https://i.redd.it/zmo11sh6zuhh1.png)
