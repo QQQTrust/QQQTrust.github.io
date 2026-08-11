@@ -9,11 +9,12 @@ source: "https://www.reddit.com/user/QQQTrust/comments/1vjc6wv/%E4%BA%A4%E6%98%9
 reddit_id: "1vjc6wv"
 ---
 
-https://www.youtube.com/watch?v=UtnCALL88nI&list=PLRGWg7K87hcPNvMPluPIbUxqLIBKYggx-&index=20,
-
-https://www.youtube.com/watch?v=GidhcEiyNyk&list=PLRGWg7K87hcPNvMPluPIbUxqLIBKYggx-&index=21
 
 这两期视频值得反复观看和学习
+
+https://www.youtube.com/watch?v=UtnCALL88nI&list=PLRGWg7K87hcPNvMPluPIbUxqLIBKYggx-&index=20；
+
+https://www.youtube.com/watch?v=GidhcEiyNyk&list=PLRGWg7K87hcPNvMPluPIbUxqLIBKYggx-&index=21；
 
 在金融市场里，几乎每个人都会给自己的买卖行为披上一层理性的外衣：研究基本面、分析技术指标、盯盘口语言。我们坚信自己来到这个市场，是为了理性地投资赚钱、改善生活。
 
