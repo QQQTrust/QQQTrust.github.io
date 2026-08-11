@@ -8,6 +8,8 @@ tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhloyk/%E7%9C%9F%E6%AD%A3%E4%BA%A4%E6%98%93%E5%8E%89%E5%AE%B3%E7%9A%84%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%90%8E%E9%83%BD%E5%8F%98%E5%BE%97%E4%B8%8D%E5%90%88%E7%BE%A4%E4%BA%86/"
 reddit_id: "1vhloyk"
 ---
+不和群的底气是有足够的金钱支持，但是在市场中挣到大钱，需要的并不是合群和勤劳，对自己心性的培育更加关键。
+少出手，只做QQQ，QQQ的期权要到关键时刻买入，管理自己，不急不躁，学会等待，目前还是控制不住自己，神功大成的时候应该能感觉到。
 
 交易越久，我越明白：以后我要学会一个人走，不需要刻意合群
 
