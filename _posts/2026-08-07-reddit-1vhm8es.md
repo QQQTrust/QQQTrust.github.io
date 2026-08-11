@@ -8,6 +8,7 @@ tags: [交易, 美股, 投资, Reddit]
 source: "https://www.reddit.com/user/QQQTrust/comments/1vhm8es/%E8%82%A1%E5%B8%82%E6%8C%A3%E5%88%B0%E9%92%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E6%B0%94%E6%84%8F%E5%91%B3%E7%9D%80%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%80%89%E6%8B%A9/"
 reddit_id: "1vhm8es"
 ---
+股市这条路，一旦踏上就没有归途，自己会不断的向前，但是向前的方式自己可以决定，记录，复盘，学习，这也是为什么要在这里记录的原因。
 
 股市这么残酷，为什么还有那么多人愿意留在这里？
 
