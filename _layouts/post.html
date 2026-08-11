@@ -13,5 +13,24 @@ layout: default
     <div class="post-content">
       {{ content }}
     </div>
+    <footer class="post-actions">
+      {% if page.source %}
+        <a class="source-link" href="{{ page.source }}" target="_blank" rel="noopener noreferrer">
+          原文来自 Reddit
+        </a>
+      {% endif %}
+      <section class="comments" aria-labelledby="comments-title">
+        <h2 id="comments-title">回复</h2>
+        <p>使用 GitHub 登录后，可以在这里留下回复。</p>
+        <script src="https://utteranc.es/client.js"
+          repo="QQQTrust/QQQTrust.github.io"
+          issue-term="pathname"
+          label="comment"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </section>
+    </footer>
   </article>
 </main>
