@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三十八、【学习笔记】道氏理论-Dow Theory"
+title: "【学习笔记】道氏理论-Dow Theory"
 date: 2026-08-13 09:00:00 +0800
 order: 101
 learning_order: 1
