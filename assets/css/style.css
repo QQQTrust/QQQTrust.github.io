@@ -327,6 +327,48 @@ a {
   margin-top: 22px;
 }
 
+.learning-intro {
+  margin: 8px 0 24px;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
+.learning-list {
+  display: grid;
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.learning-item {
+  display: grid;
+  gap: 8px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #ffffff;
+  padding: 18px;
+}
+
+.learning-item:hover h2 {
+  color: var(--accent);
+}
+
+.learning-item time {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.learning-item h2 {
+  margin: 0;
+  font-size: 21px;
+  line-height: 1.45;
+}
+
+.learning-item p {
+  margin: 0;
+  color: #4b5563;
+  line-height: 1.75;
+}
+
 .archive-item {
   display: flex;
   justify-content: space-between;

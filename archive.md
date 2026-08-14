@@ -9,7 +9,7 @@ permalink: /archive/
   <div class="archive-list">
     {% assign ordered_posts = site.posts | sort: "order" %}
     {% for post in ordered_posts %}
-      {% if post.reddit_id %}
+      {% if post.reddit_id and post.category != "学习笔记" %}
         <a class="archive-item" href="{{ post.url | relative_url }}">
           <time>{{ post.date | date: '%Y-%m-%d' }}</time>
           <span>{{ post.title }}</span>
